@@ -1,0 +1,204 @@
+<!doctype html>
+<title>Homicide Analysis</title>
+
+<style>
+
+* {
+  font-family: 'Ubuntu', 'Helvetica', sans-serif;
+}
+* html,
+* body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #FFAB62;
+}
+* html .no-padding,
+* body .no-padding {
+  padding: 0;
+}
+* html .box,
+* body .box {
+  margin-bottom: 50px;
+}
+* html .box .results,
+* body .box .results {
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.8);
+  background: #fff;
+}
+* html .box .well,
+* body .box .well {
+  margin-bottom: 0;
+}
+* html .box .arrow,
+* body .box .arrow {
+  position: relative;
+  top: 0;
+}
+* html .filter,
+* body .filter {
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.8);
+  background: #fff;
+}
+
+#grid, #pager {
+  position: fixed;
+  width: 100%;
+}
+#grid {
+  bottom: 0;
+  height: 300px;
+}
+#pager {
+  bottom: 306px;
+  height: 20px;
+}
+.slick-row:hover {
+  font-weight: bold;
+  color: #069;
+}
+text {
+  font: 10px sans-serif;
+}
+aside {
+  float: right;
+  width: 85%;
+}
+section {
+  float: left;
+  width: 15%;
+   margin-right: 0px;
+   margin-left: 0px;
+   margin-top: 0px;
+}
+.button {
+    background-color: #069; /* Orange */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+#layout {
+  background-color: #FFAB62;
+}
+</style>
+<!-- SlickGrid -->
+<link rel="stylesheet" href="lib/slickgrid/slick.grid.css" type="text/css"/>
+<link rel="stylesheet" href="lib/slickgrid/jquery-ui-1.8.16.custom.css" type="text/css"/>
+<link rel="stylesheet" href="lib/slickgrid/examples.css" type="text/css"/>
+<link rel="stylesheet" href="lib/slickgrid/slick.pager.css" type="text/css"/>
+<script src="lib/slickgrid/jquery-1.7.min.js"></script>
+<script src="lib/slickgrid/jquery.event.drag-2.0.min.js"></script>
+<script src="lib/slickgrid/slick.core.js"></script>
+<script src="lib/slickgrid/slick.grid.js"></script>
+<script src="lib/slickgrid/slick.pager.js"></script>
+<script src="lib/slickgrid/slick.dataview.js"></script>
+<!-- End SlickGrid -->
+
+<!--css-->
+<link rel="stylesheet" type="text/css" href="../d3.parcoords.css">
+<link rel="stylesheet" type="text/css" href="style.css">
+
+<!--Other tools-->
+<script src="lib/d3.min.js"></script>
+<script src="../d3.parcoords.js"></script>
+<script src="lib/underscore.js"></script>
+<script src="lib/divgrid.js"></script>
+<link rel="stylesheet" href="http://code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css">
+<script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+<script src="http://code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
+
+<!--Objects start here-->
+<section >
+  <div id="layout">
+    <div id="title">
+      <p style="font-size:20px" style="font-family:verdana;">Control Panel</br><p>
+    </div>
+    <div id="visualization">
+    <p style="font-size:16px" style="font-family:verdana;">Tool I: Dropdown Filter</br><p>
+          </div>
+          <div id="filters">
+                    <label for="Victim Race" value="Victim Race">Victim Race</label>
+                    <div id="filters">
+                    <select id='myselectform'>
+                      <option value="All">All</option>
+                      <option value="Native American/Alask">Native American/Alask</option>
+                      <option value="White">White</option>
+                      <option value="Black">Black</option>
+                      <option value="Unknown">Unknown</option>
+                      <option value="Asian/Pacific Islander">Asian/Pacific Islander</option>
+                    </select></br>
+
+                      <label for="Agency Type" value="Agency Type">Agency Type</label>
+                    <div id="filters">
+                    <select id='myselectform2'>
+                      <option value="All">All</option>
+                      <option value="Municipal Police">Municipal Police</option>
+                      <option value="County Police">County Police</option>
+                      <option value="State Police">State Police</option>
+                      <option value="Sheriff">Sheriff</option>
+                      <option value="Special Police">Special Police</option>
+                    </select></br>
+
+
+                      <label for="Victim Sex">Victim Sex</label>
+                    <div id="filters">
+                    <select id='myselectform3'>
+                      <option value="All">All</option>
+                      <option value="Male">Male</option>
+                      <option value="Female">Female</option>
+                      <option value="Unknown">Unknown</option>
+                    </select>
+                    
+                    
+                      <p style="font-size:12px">Filter the data and generate the</br> chart by clicking the button below,reset</br> before click go again</p>
+                      <button class="button" onclick="reset()">Reset</button><button class="button" onclick="drawFinalVis()">Go!</button>
+                      <!--input type="text" id="mytype" readonly style="border:0; color:#f6931f; font-weight:bold;"-->
+                      <p style="font-size:16px" style="font-family:verdana;">Tool II: Bar Filter</br><p>
+                    
+                      <p>Year Range</p>
+                      <div id="assists" class="slider-range"></div>
+                      <label for="assistamount">Year range:</label>
+                      <input type="text" id="assistamount" readonly style="border:0;
+                      color:#f6931f; font-weight:bold;">
+                    </div>
+                      <p style="font-size:16px" style="font-family:verdana;";style="color:blue;">Tool III: Analysis</br><p>
+                        <button class="button" onclick="drawFinalRecolorVis()">Analyze Gender</button>
+                    <script>
+                    document.getElementById("myselectform").onchange =
+                    function(){
+                    filterType(this.value);
+                  }
+                  document.getElementById("myselectform2").onchange =
+                    function(){
+                    filterAgencyType(this.value);
+                  }
+                 document.getElementById("myselectform3").onchange =
+                    function(){
+                    filterGender(this.value);
+                  }
+                  
+                    </script>
+    </div>
+
+  </section>
+  <aside>
+      <div id="chart"></div>
+      <div id="story" readonly style="border:0;
+                      color:#f6931f; font-weight:bold;" ></div>
+      <div id="example" class="parcoords" style="height:320px;"></div>
+      <div id="grid"></div>
+      <div id="pager"></div>
+      <script src="drawVis.js"></script>
+  </aside>
+

@@ -1,0 +1,204 @@
+﻿Year,Month,State,City,Victim Sex,Victim Age,Victim Race,Perpetrator Sex,Perpetrator Age,Perpetrator Race,Relationship,Weapon,Victim Count,Perpetrator Count,Agency Type,Crime Type,Crime Solved
+1980,January,Alaska,Anchorage,Male,14,Native American/Alaska Native,Male,15,Native American/Alaska Native,Acquaintance,Blunt Object,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,March,Alaska,Anchorage,Male,43,White,Male,42,White,Acquaintance,Strangulation,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,March,Alaska,Anchorage,Female,30,Native American/Alaska Native,Unknown,0,Unknown,Unknown,Unknown,0,0,Municipal Police,Murder or Manslaughter,No
+1980,April,Alaska,Anchorage,Male,43,White,Male,42,White,Acquaintance,Strangulation,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,April,Alaska,Anchorage,Female,30,Native American/Alaska Native,Unknown,0,Unknown,Unknown,Unknown,0,1,Municipal Police,Murder or Manslaughter,No
+1980,May,Alaska,Anchorage,Male,30,White,Male,36,White,Acquaintance,Rifle,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,May,Alaska,Anchorage,Female,42,Native American/Alaska Native,Male,27,Black,Wife,Knife,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,June,Alaska,Anchorage,Female,99,White,Male,35,White,Wife,Knife,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,June,Alaska,Anchorage,Male,32,White,Unknown,0,Unknown,Unknown,Firearm,0,0,Municipal Police,Murder or Manslaughter,No
+1980,June,Alaska,Anchorage,Male,38,White,Male,40,Unknown,Unknown,Firearm,0,1,Municipal Police,Murder or Manslaughter,Yes
+1980,July,Alaska,Anchorage,Male,36,Native American/Alaska Native,Unknown,0,Unknown,Unknown,Unknown,0,1,Municipal Police,Murder or Manslaughter,No
+1980,July,Alaska,Anchorage,Male,20,White,Male,49,White,Stranger,Shotgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,July,Alaska,Anchorage,Female,36,Black,Male,39,Black,Girlfriend,Blunt Object,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,August,Alaska,Anchorage,Male,20,Native American/Alaska Native,Male,49,White,Unknown,Fall,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,August,Alaska,Anchorage,Male,48,White,Unknown,0,Unknown,Unknown,Handgun,0,0,Municipal Police,Murder or Manslaughter,No
+1980,August,Alaska,Anchorage,Male,31,Black,Female,29,Black,Ex-Husband,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,December,Alaska,Anchorage,Male,16,Unknown,Male,19,Unknown,Acquaintance,Knife,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,November,Alaska,Juneau,Male,33,Native American/Alaska Native,Male,23,Native American/Alaska Native,Brother,Blunt Object,0,1,Municipal Police,Murder or Manslaughter,Yes
+1980,June,Alaska,Nome,Male,27,Native American/Alaska Native,Male,33,Native American/Alaska Native,Acquaintance,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,February,Alaska,Bethel,Male,33,Native American/Alaska Native,Male,35,Native American/Alaska Native,Brother,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,August,Alaska,North Slope,Female,31,Unknown,Male,29,Unknown,Stepdaughter,Rifle,2,0,County Police,Murder or Manslaughter,Yes
+1980,August,Alaska,North Slope,Male,21,Unknown,Male,29,Unknown,Stepdaughter,Rifle,2,0,County Police,Murder or Manslaughter,Yes
+1980,June,Alaska,North Slope,Male,60,Unknown,Male,26,Unknown,Acquaintance,Knife,0,0,County Police,Murder or Manslaughter,Yes
+1980,July,Alaska,North Slope,Female,40,Unknown,Male,41,Unknown,Wife,Blunt Object,0,0,County Police,Manslaughter by Negligence,Yes
+1980,August,Alaska,North Slope,Female,16,Unknown,Male,29,Unknown,Stepdaughter,Rifle,2,0,County Police,Murder or Manslaughter,Yes
+1980,February,Alaska,Kenai Peninsula,Female,36,White,Male,42,White,Wife,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,February,Alaska,Juneau,Male,27,Black,Unknown,0,Unknown,Unknown,Handgun,0,0,State Police,Murder or Manslaughter,No
+1980,February,Alaska,Juneau,Male,31,Native American/Alaska Native,Female,28,Native American/Alaska Native,Husband,Handgun,0,0,State Police,Murder or Manslaughter,Yes
+1980,February,Alaska,Juneau,Male,27,Native American/Alaska Native,Female,36,Native American/Alaska Native,Brother,Rifle,0,0,State Police,Murder or Manslaughter,Yes
+1980,April,Alaska,Juneau,Male,18,Unknown,Male,61,Native American/Alaska Native,Unknown,Shotgun,0,0,State Police,Murder or Manslaughter,Yes
+1980,May,Alaska,Juneau,Male,27,White,Male,25,White,Brother,Rifle,0,0,State Police,Murder or Manslaughter,Yes
+1980,June,Alaska,Juneau,Female,8,Asian/Pacific Islander,Male,7,Asian/Pacific Islander,Sister,Rifle,0,0,State Police,Manslaughter by Negligence,Yes
+1980,July,Alaska,Juneau,Male,25,White,Unknown,0,Unknown,Unknown,Unknown,0,0,State Police,Murder or Manslaughter,No
+1980,July,Alaska,Juneau,Male,24,Native American/Alaska Native,Unknown,0,Unknown,Unknown,Unknown,0,0,State Police,Murder or Manslaughter,No
+1980,July,Alaska,Juneau,Male,33,White,Unknown,0,Unknown,Unknown,Firearm,0,0,State Police,Murder or Manslaughter,No
+1980,August,Alaska,Juneau,Male,21,Native American/Alaska Native,Male,17,Native American/Alaska Native,Unknown,Rifle,0,0,State Police,Murder or Manslaughter,Yes
+1980,August,Alaska,Juneau,Female,46,Native American/Alaska Native,Male,34,White,Unknown,Rifle,0,0,State Police,Murder or Manslaughter,Yes
+1980,October,Alaska,Juneau,Male,23,Native American/Alaska Native,Male,28,Native American/Alaska Native,Acquaintance,Rifle,0,0,State Police,Murder or Manslaughter,Yes
+1980,October,Alaska,Juneau,Female,22,White,Unknown,0,Unknown,Unknown,Firearm,0,0,State Police,Murder or Manslaughter,No
+1980,October,Alaska,Juneau,Male,45,White,Male,49,White,Acquaintance,Rifle,0,0,State Police,Manslaughter by Negligence,Yes
+1980,October,Alaska,Juneau,Male,21,White,Male,21,White,Friend,Rifle,0,0,State Police,Manslaughter by Negligence,Yes
+1980,November,Alaska,Juneau,Male,26,White,Male,43,White,Friend,Handgun,0,0,State Police,Murder or Manslaughter,Yes
+1980,November,Alaska,Juneau,Male,25,Native American/Alaska Native,Male,42,Native American/Alaska Native,Family,Rifle,0,0,State Police,Murder or Manslaughter,Yes
+1980,November,Alaska,Juneau,Female,40,White,Male,36,White,Friend,Rifle,0,0,State Police,Manslaughter by Negligence,Yes
+1980,November,Alaska,Juneau,Female,26,Native American/Alaska Native,Male,26,Native American/Alaska Native,Wife,Drowning,0,0,State Police,Manslaughter by Negligence,Yes
+1980,December,Alaska,Juneau,Male,23,Native American/Alaska Native,Male,23,Native American/Alaska Native,Friend,Knife,0,0,State Police,Murder or Manslaughter,Yes
+1980,December,Alaska,Juneau,Male,26,Native American/Alaska Native,Female,27,Native American/Alaska Native,Husband,Rifle,0,0,State Police,Manslaughter by Negligence,Yes
+1980,February,Alabama,Jefferson,Male,58,Black,Male,43,Black,Neighbor,Rifle,0,0,Sheriff,Murder or Manslaughter,Yes
+1980,March,Alabama,Jefferson,Male,43,White,Female,38,White,Husband,Shotgun,0,0,Sheriff,Murder or Manslaughter,Yes
+1980,April,Alabama,Jefferson,Male,26,Black,Male,66,Black,Acquaintance,Handgun,0,0,Sheriff,Murder or Manslaughter,Yes
+1980,May,Alabama,Jefferson,Male,17,White,Male,40,White,Stranger,Handgun,0,0,Sheriff,Murder or Manslaughter,Yes
+1980,June,Alabama,Jefferson,Male,24,White,Female,23,White,Husband,Handgun,0,0,Sheriff,Murder or Manslaughter,Yes
+1980,July,Alabama,Jefferson,Male,23,Black,Male,32,Black,Acquaintance,Handgun,0,0,Sheriff,Murder or Manslaughter,Yes
+1980,July,Alabama,Jefferson,Male,42,White,Female,40,White,Husband,Handgun,0,0,Sheriff,Murder or Manslaughter,Yes
+1980,July,Alabama,Jefferson,Male,33,Black,Male,26,Black,Acquaintance,Handgun,0,1,Sheriff,Murder or Manslaughter,Yes
+1980,August,Alabama,Jefferson,Male,29,White,Unknown,0,Unknown,Unknown,Firearm,0,1,Sheriff,Murder or Manslaughter,No
+1980,August,Alabama,Jefferson,Female,41,White,Male,37,White,Acquaintance,Handgun,0,0,Sheriff,Murder or Manslaughter,Yes
+1980,August,Alabama,Jefferson,Male,68,Black,Male,22,Black,Stranger,Handgun,0,2,Sheriff,Murder or Manslaughter,Yes
+1980,September,Alabama,Jefferson,Male,46,White,Male,22,White,Father,Rifle,0,0,Sheriff,Murder or Manslaughter,Yes
+1980,October,Alabama,Jefferson,Male,23,White,Unknown,0,Unknown,Unknown,Handgun,0,1,Sheriff,Murder or Manslaughter,No
+1980,November,Alabama,Jefferson,Male,13,White,Male,15,White,Friend,Shotgun,0,0,Sheriff,Manslaughter by Negligence,Yes
+1980,December,Alabama,Jefferson,Male,18,Black,Male,38,Black,Stranger,Handgun,0,0,Sheriff,Murder or Manslaughter,Yes
+1980,February,Alabama,Jefferson,Male,31,Black,Male,43,Black,Acquaintance,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,March,Alabama,Jefferson,Female,35,Black,Male,38,Black,Acquaintance,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,March,Alabama,Jefferson,Male,24,Black,Male,30,Black,In-Law,Knife,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,April,Alabama,Jefferson,Male,26,Black,Female,24,Black,Husband,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,April,Alabama,Jefferson,Male,44,Black,Female,23,Black,Husband,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,June,Alabama,Jefferson,Male,54,Black,Male,28,Black,Acquaintance,Shotgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,June,Alabama,Jefferson,Male,27,Black,Male,25,Black,Brother,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,July,Alabama,Jefferson,Female,23,Black,Male,26,Black,Wife,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,July,Alabama,Jefferson,Male,33,Black,Male,65,Black,Acquaintance,Knife,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,October,Alabama,Jefferson,Male,20,Black,Male,24,Black,Acquaintance,Knife,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,October,Alabama,Jefferson,Male,27,White,Male,25,White,Acquaintance,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,January,Alabama,Jefferson,Male,31,Black,Female,19,Black,Acquaintance,Knife,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,January,Alabama,Jefferson,Male,45,Black,Female,51,Black,Husband,Knife,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,January,Alabama,Jefferson,Male,37,Black,Female,60,Black,Son,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,January,Alabama,Jefferson,Female,25,Black,Male,43,Black,Girlfriend,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,January,Alabama,Jefferson,Male,35,Black,Male,30,Black,Acquaintance,Knife,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,January,Alabama,Jefferson,Female,35,Black,Male,35,Black,Acquaintance,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,January,Alabama,Jefferson,Male,35,Black,Male,30,White,Stranger,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,January,Alabama,Jefferson,Female,45,Black,Male,45,Black,Acquaintance,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,January,Alabama,Jefferson,Male,22,White,Male,19,White,Stranger,Shotgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,January,Alabama,Jefferson,Male,38,Black,Male,45,Black,Acquaintance,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,January,Alabama,Jefferson,Male,51,Black,Male,22,Black,Acquaintance,Knife,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,February,Alabama,Jefferson,Male,24,Black,Male,30,Black,Acquaintance,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,February,Alabama,Jefferson,Female,44,Black,Male,64,Black,Acquaintance,Knife,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,February,Alabama,Jefferson,Male,30,Black,Female,17,Black,Acquaintance,Shotgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,February,Alabama,Jefferson,Male,22,Black,Female,21,Black,Husband,Knife,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,February,Alabama,Jefferson,Male,30,White,Male,32,White,Acquaintance,Knife,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,February,Alabama,Jefferson,Female,46,Black,Male,49,Black,Wife,Knife,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,February,Alabama,Jefferson,Female,90,Black,Male,17,Black,Acquaintance,Knife,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,March,Alabama,Jefferson,Male,50,Black,Female,43,Black,Husband,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,March,Alabama,Jefferson,Female,20,Black,Female,17,Black,Family,Shotgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,March,Alabama,Jefferson,Male,40,Black,Male,33,Black,Acquaintance,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,March,Alabama,Jefferson,Male,24,Black,Female,30,Black,Husband,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,March,Alabama,Jefferson,Male,30,Black,Unknown,0,Unknown,Unknown,Blunt Object,0,0,Municipal Police,Murder or Manslaughter,No
+1980,March,Alabama,Jefferson,Male,38,Black,Male,30,Black,Stranger,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,March,Alabama,Jefferson,Male,23,Black,Male,30,White,Stranger,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,April,Alabama,Jefferson,Female,20,Black,Male,18,Black,Acquaintance,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,April,Alabama,Jefferson,Female,23,Black,Male,24,Black,Wife,Knife,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,April,Alabama,Jefferson,Male,22,Black,Female,21,Black,Husband,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,April,Alabama,Jefferson,Female,30,Black,Male,32,Black,Neighbor,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,April,Alabama,Jefferson,Male,30,Black,Male,27,Black,Stranger,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,May,Alabama,Jefferson,Male,52,Black,Male,28,Black,Acquaintance,Blunt Object,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,May,Alabama,Jefferson,Male,38,Black,Male,37,Black,Acquaintance,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,May,Alabama,Jefferson,Male,61,White,Male,33,White,Acquaintance,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,May,Alabama,Jefferson,Male,23,White,Male,30,White,Stranger,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,May,Alabama,Jefferson,Male,30,Black,Male,30,White,Stranger,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,June,Alabama,Jefferson,Male,30,Black,Female,30,Black,Acquaintance,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,June,Alabama,Jefferson,Male,46,Black,Male,20,Black,Acquaintance,Knife,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,June,Alabama,Jefferson,Male,63,Black,Male,61,Black,Neighbor,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,June,Alabama,Jefferson,Female,31,White,Unknown,0,Unknown,Unknown,Handgun,0,1,Municipal Police,Murder or Manslaughter,No
+1980,June,Alabama,Jefferson,Male,30,White,Male,25,Black,Stranger,Shotgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,June,Alabama,Jefferson,Female,40,Black,Unknown,0,Unknown,Unknown,Handgun,0,1,Municipal Police,Murder or Manslaughter,No
+1980,June,Alabama,Jefferson,Male,40,Black,Unknown,0,Unknown,Unknown,Blunt Object,0,1,Municipal Police,Murder or Manslaughter,No
+1980,July,Alabama,Jefferson,Male,19,Black,Male,20,Black,Acquaintance,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,July,Alabama,Jefferson,Male,46,Black,Female,33,Black,Husband,Knife,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,July,Alabama,Jefferson,Female,22,Black,Male,21,White,Acquaintance,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,July,Alabama,Jefferson,Male,35,Black,Female,28,Black,Husband,Knife,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,July,Alabama,Jefferson,Male,25,White,Male,20,White,Acquaintance,Shotgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,July,Alabama,Jefferson,Female,35,Black,Male,44,Black,Ex-Wife,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,July,Alabama,Jefferson,Male,30,White,Male,29,White,Acquaintance,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,July,Alabama,Jefferson,Male,28,Black,Male,32,Black,Acquaintance,Rifle,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,July,Alabama,Jefferson,Female,70,White,Male,73,White,Wife,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,August,Alabama,Jefferson,Male,58,White,Male,62,White,Friend,Knife,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,August,Alabama,Jefferson,Female,60,Black,Female,21,Black,Friend,Blunt Object,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,August,Alabama,Jefferson,Male,16,Black,Male,26,Black,Friend,Knife,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,August,Alabama,Jefferson,Female,28,White,Male,29,White,Acquaintance,Knife,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,August,Alabama,Jefferson,Male,72,White,Male,23,Black,Stranger,Shotgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,August,Alabama,Jefferson,Male,17,White,Male,17,White,Acquaintance,Shotgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,August,Alabama,Jefferson,Male,25,Black,Male,44,Black,Friend,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,August,Alabama,Jefferson,Male,17,Black,Male,20,Black,Friend,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,August,Alabama,Jefferson,Male,50,Black,Unknown,0,Unknown,Unknown,Handgun,0,1,Municipal Police,Murder or Manslaughter,No
+1980,August,Alabama,Jefferson,Male,28,Black,Female,29,Black,Husband,Knife,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,August,Alabama,Jefferson,Male,70,White,Unknown,0,Unknown,Stranger,Shotgun,0,1,Municipal Police,Murder or Manslaughter,No
+1980,September,Alabama,Jefferson,Male,26,Black,Male,25,Black,Acquaintance,Knife,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,September,Alabama,Jefferson,Female,74,White,Unknown,0,Unknown,Unknown,Knife,0,0,Municipal Police,Murder or Manslaughter,No
+1980,September,Alabama,Jefferson,Male,31,Black,Female,39,Black,Neighbor,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,October,Alabama,Jefferson,Male,31,White,Male,30,Black,Stranger,Handgun,0,1,Municipal Police,Murder or Manslaughter,Yes
+1980,October,Alabama,Jefferson,Male,53,Black,Male,69,Black,Acquaintance,Rifle,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,October,Alabama,Jefferson,Male,30,White,Male,25,White,Acquaintance,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,October,Alabama,Jefferson,Male,19,Black,Male,25,Black,Acquaintance,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,October,Alabama,Jefferson,Male,33,Black,Male,26,Black,Acquaintance,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,October,Alabama,Jefferson,Male,30,Black,Unknown,0,Unknown,Unknown,Shotgun,0,1,Municipal Police,Murder or Manslaughter,No
+1980,October,Alabama,Jefferson,Male,30,Black,Male,29,Black,Acquaintance,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,October,Alabama,Jefferson,Male,32,Black,Male,52,Black,Acquaintance,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,October,Alabama,Jefferson,Male,57,White,Male,18,Black,Stranger,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,October,Alabama,Jefferson,Male,25,Black,Unknown,0,Unknown,Unknown,Handgun,0,1,Municipal Police,Murder or Manslaughter,No
+1980,October,Alabama,Jefferson,Female,24,Black,Unknown,0,Unknown,Unknown,Handgun,0,1,Municipal Police,Murder or Manslaughter,No
+1980,November,Alabama,Jefferson,Male,40,Black,Male,30,Black,Stranger,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,November,Alabama,Jefferson,Male,17,Black,Male,16,Black,Acquaintance,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,November,Alabama,Jefferson,Male,20,Black,Male,25,Black,Acquaintance,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,November,Alabama,Jefferson,Female,76,White,Unknown,0,Unknown,Unknown,Knife,0,1,Municipal Police,Murder or Manslaughter,No
+1980,November,Alabama,Jefferson,Male,22,Black,Male,23,Black,Friend,Knife,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,November,Alabama,Jefferson,Male,79,White,Male,25,Black,Stranger,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,November,Alabama,Jefferson,Male,60,Black,Unknown,0,Unknown,Unknown,Blunt Object,0,1,Municipal Police,Murder or Manslaughter,No
+1980,December,Alabama,Jefferson,Female,51,White,Male,42,White,Wife,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,December,Alabama,Jefferson,Female,69,White,Male,90,White,Wife,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,December,Alabama,Jefferson,Male,40,Black,Unknown,0,Unknown,Unknown,Shotgun,0,1,Municipal Police,Murder or Manslaughter,No
+1980,December,Alabama,Jefferson,Male,51,White,Male,30,Black,Stranger,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,December,Alabama,Jefferson,Male,34,White,Male,30,Black,Stranger,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,December,Alabama,Jefferson,Male,30,White,Male,39,White,Acquaintance,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,December,Alabama,Jefferson,Male,31,Black,Female,25,Black,Ex-Husband,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,December,Alabama,Jefferson,Male,35,Black,Male,35,Black,Acquaintance,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,December,Alabama,Jefferson,Male,40,Black,Male,42,Black,Acquaintance,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,December,Alabama,Jefferson,Male,40,Black,Male,34,Black,Husband,Rifle,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,April,Alabama,Jefferson,Male,25,Black,Female,24,Black,Husband,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,May,Alabama,Jefferson,Female,40,White,Male,60,White,Friend,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,July,Alabama,Jefferson,Male,66,White,Male,23,White,Stranger,Handgun,0,1,Municipal Police,Murder or Manslaughter,Yes
+1980,July,Alabama,Jefferson,Male,55,White,Male,32,White,Stranger,Handgun,0,3,Municipal Police,Murder or Manslaughter,Yes
+1980,March,Alabama,Jefferson,Male,20,White,Male,19,Black,Acquaintance,Knife,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,March,Alabama,Jefferson,Male,61,White,Male,25,White,Father,Shotgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,October,Alabama,Jefferson,Female,33,Black,Male,42,Black,Girlfriend,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,December,Alabama,Jefferson,Male,24,Black,Male,22,Black,Acquaintance,Shotgun,1,1,Municipal Police,Murder or Manslaughter,Yes
+1980,December,Alabama,Jefferson,Male,18,Black,Male,22,Black,Acquaintance,Shotgun,1,1,Municipal Police,Murder or Manslaughter,Yes
+1980,May,Alabama,Jefferson,Male,67,White,Male,40,White,Father,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,August,Alabama,Jefferson,Male,21,White,Male,21,White,Stranger,Unknown,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,January,Alabama,Mobile,Male,29,White,Unknown,0,Unknown,Unknown,Handgun,0,1,Sheriff,Murder or Manslaughter,No
+1980,January,Alabama,Mobile,Male,21,White,Female,22,White,Husband,Shotgun,0,0,Sheriff,Murder or Manslaughter,Yes
+1980,January,Alabama,Mobile,Male,50,Black,Male,56,Black,Acquaintance,Handgun,0,0,Sheriff,Murder or Manslaughter,Yes
+1980,February,Alabama,Mobile,Male,52,Black,Female,22,Black,Acquaintance,Shotgun,0,0,Sheriff,Murder or Manslaughter,Yes
+1980,March,Alabama,Mobile,Male,37,Black,Female,37,Black,Husband,Handgun,0,0,Sheriff,Murder or Manslaughter,Yes
+1980,March,Alabama,Mobile,Male,30,White,Male,23,White,Acquaintance,Handgun,0,0,Sheriff,Murder or Manslaughter,Yes
+1980,March,Alabama,Mobile,Male,65,White,Unknown,0,Unknown,Unknown,Handgun,0,1,Sheriff,Murder or Manslaughter,No
+1980,May,Alabama,Mobile,Male,52,White,Female,39,White,Husband,Rifle,0,1,Sheriff,Murder or Manslaughter,Yes
+1980,June,Alabama,Mobile,Male,34,White,Male,32,Black,Stranger,Handgun,0,0,Sheriff,Murder or Manslaughter,Yes
+1980,June,Alabama,Mobile,Male,26,White,Male,37,White,Acquaintance,Handgun,0,0,Sheriff,Murder or Manslaughter,Yes
+1980,June,Alabama,Mobile,Male,40,White,Male,23,White,Acquaintance,Knife,0,0,Sheriff,Murder or Manslaughter,Yes
+1980,July,Alabama,Mobile,Male,47,White,Female,47,White,Husband,Handgun,0,0,Sheriff,Murder or Manslaughter,Yes
+1980,July,Alabama,Mobile,Male,36,Black,Male,30,Black,Acquaintance,Handgun,0,0,Sheriff,Murder or Manslaughter,Yes
+1980,July,Alabama,Mobile,Male,50,White,Male,24,White,Stranger,Knife,1,1,Municipal Police,Murder or Manslaughter,Yes
+1980,January,Alabama,Mobile,Male,44,Black,Male,27,Black,Acquaintance,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,January,Alabama,Mobile,Female,1,Black,Male,24,Black,Unknown,Blunt Object,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,January,Alabama,Mobile,Male,23,White,Male,0,Black,Stranger,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,January,Alabama,Mobile,Female,21,White,Male,41,White,Wife,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,January,Alabama,Mobile,Male,48,Black,Female,39,Black,Husband,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,January,Alabama,Mobile,Female,57,Black,Male,34,Black,Acquaintance,Blunt Object,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,February,Alabama,Mobile,Male,37,White,Unknown,0,Unknown,Unknown,Firearm,0,1,Municipal Police,Murder or Manslaughter,No
+1980,February,Alabama,Mobile,Female,35,Black,Male,35,Black,Girlfriend,Knife,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,February,Alabama,Mobile,Female,32,Black,Male,47,Black,Wife,Rifle,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,March,Alabama,Mobile,Female,38,White,Male,41,White,Wife,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,March,Alabama,Mobile,Male,25,Black,Male,32,Black,Stranger,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
+1980,March,Alabama,Mobile,Male,67,Black,Male,37,Black,Acquaintance,Handgun,0,0,Municipal Police,Murder or Manslaughter,Yes
