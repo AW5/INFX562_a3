@@ -34,7 +34,7 @@ var parcoords = d3.parcoords()("#example")
   ;
 
 // load csv file and create the chart
-d3.csv('data/database_test.csv', function(data) {
+d3.csv('data/database_re.csv', function(data) {
 //process time
 //var parseTimeM = d3.time.format("%B").parse; 
 //var formatDate = d3.time.format("%b-%Y");
